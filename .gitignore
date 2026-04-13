@@ -18,3 +18,17 @@ RajFABBackend/obj/
 RajFABBackend/Logs/
 RajFABBackend/wwwroot/
 RajFABBackend/.vs/
+RajFABBackend/publish/
+
+# Build artifacts & binaries
+*.dll
+*.pdb
+*.exe
+*.so
+*.dylib
+
+# Visual Studio / Rider
+*.user
+*.suo
+.vs/
+*.cache
